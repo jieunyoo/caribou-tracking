@@ -6,6 +6,7 @@ from PIL import Image
 image = Image.open('caribou.jpg')
 
 st.title('Caribou Release')
+st.image(image)
 
 st.text('260 woodland caribou were tagged in British Columbia. Find out where they were released.')
 st.text('This data comes from: BC Ministry of Environment (2014)')
