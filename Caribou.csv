@@ -1,4 +1,4 @@
-animal_id,sex,deploy_on_longitude,deploy_on_latitude
+animal_id,sex,longitude,latitude
 KE_car004,f,-122.3872998,55.19803367
 MO_car006,f,-122.441041,55.8452695
 HR_car002,f,-122.1123246,54.84585894
